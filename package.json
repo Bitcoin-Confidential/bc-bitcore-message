@@ -1,5 +1,5 @@
 {
-  "name": "particl-bitcore-message",
+  "name": "bc-bitcore-message",
   "version": "1.0.3",
   "description": "Particl Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
